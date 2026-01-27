@@ -1,21 +1,28 @@
-👋 Hi there! I'm Bárbara Souza
+👋 Hi, I'm Bárbara Souza
 
-I'm a second-year student pursuing a Bachelor of Science (Honours) in Computing & Information Technology. Passionate about coding, I'm currently enhancing my skills in Python, Java, JavaScript, and web technologies like React, Node.js and HTML/CSS. I love building projects that solve real-world problems and constantly challenge myself to learn new tools and technologies.
+🎓 Third-year BSc (Hons) Computing & Information Technology student based in Dublin, passionate about software development, AI technologies, and problem-solving.
 
-🔭 Current Projects:
+I enjoy building projects that combine programming, systems, and real-world applications. My experience includes working with Python, Java, JavaScript, SQL, REST APIs, Linux virtual machines, and Docker. I’m especially interested in how software, cloud, and intelligent systems come together to create scalable solutions.
 
--Working on building responsive web applications using React and Node.js.
+🔭 Current Focus
 
--Exploring backend development using Python and Java.
+Building responsive web applications using React and Node.js
 
-🌱 What I'm Learning:
+Strengthening backend and scripting skills with Python and Java
 
--Deepening my understanding of front-end development and expanding my skills in full-stack development.
+Exploring APIs, databases, and containerised environments
 
--Getting hands-on with databases and APIs to build dynamic applications.
+🌱 Learning & Growing In
 
-💡 Looking for: 
+Full-stack development
 
-Internship or entry-level opportunities in software development, web development, or IT support where I can apply my skills and continue learning.
+Cloud and Linux-based environments
 
-📫 How to reach me: barbara.candido.souza@gmail.com | www.linkedin.com/in/bárbara-souza-a004b8205
+AI-assisted development tools and modern engineering workflows
+
+💡 Interests
+Software Engineering • AI & Intelligent Systems • Cloud & Containers • Networking • Open-source collaboration
+
+📫 Reach me at: barbara.candido.souza@gmail.com
+
+🔗 LinkedIn: www.linkedin.com/in/barbara-souza-a004b8205
