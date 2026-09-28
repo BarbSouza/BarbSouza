@@ -1,10 +1,11 @@
 👋 Hi, I'm Bárbara Souza
 
-🎓 Third-year BSc (Hons) Computing & Information Technology student based in Dublin, passionate about software development, AI technologies, and problem-solving.
+🎓 Fourth-year BSc (Hons) Computing & Information Technology student based in Dublin, passionate about software development, AI technologies, and problem-solving.
 
 I enjoy building projects that combine programming, systems, and real-world applications. My experience includes working with Python, Java, JavaScript, SQL, REST APIs, Linux virtual machines, and Docker. I’m especially interested in how software, cloud, and intelligent systems come together to create scalable solutions.
 
 🔭 Current Focus
+Learning Data Visualization, Communication, Exploration and Preparation using R and Python.
 
 Building responsive web applications using React and Node.js
 
@@ -25,4 +26,4 @@ Software Engineering • AI & Intelligent Systems • Cloud & Containers • Net
 
 📫 Reach me at: barbara.candido.souza@gmail.com
 
-🔗 LinkedIn: www.linkedin.com/in/barbara-souza-a004b8205
+🔗 LinkedIn: www.linkedin.com/in/barbara-csouza
