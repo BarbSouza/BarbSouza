@@ -20,6 +20,15 @@ I'm looking for **graduate roles starting in 2027** in project coordination, bus
 ## 🛠️ What I work with
 
 - **Languages:** Java · JavaScript / TypeScript · Python · SQL · HTML & CSS
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+          
+
 - **Frameworks & tools:** Spring Boot · Node.js / Express · React Native · Git & GitHub · Docker · Linux
 - **Data & cloud:** MySQL · MongoDB · AWS · Jupyter
 - **Ways of working:** Agile (Scrum) · requirements and proposals · UML · Notion
