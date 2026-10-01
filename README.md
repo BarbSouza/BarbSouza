@@ -31,6 +31,7 @@ I'm looking for **graduate roles starting in 2027** in project coordination, bus
 </p>
           
 - **Frameworks & tools:** Spring Boot · Node.js / Express · React Native · Git & GitHub · Docker · Linux
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" height="40" alt="Spring"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="NodeJS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
@@ -40,13 +41,16 @@ I'm looking for **graduate roles starting in 2027** in project coordination, bus
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="linux"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original-wordmark.svg" width="40" height="40" alt="KaliLinux"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" width="40" height="40" alt="Windows"/>
-          
+</p>
+
 - **Data & cloud:** MySQL · MongoDB · AWS · Jupyter
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" alt="Jupyter"/>
-          
+</p>
+
 - **Ways of working:** Agile (Scrum) · requirements and proposals · UML · Notion
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="40" height="40" alt="Notion"/>
 
